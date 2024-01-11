@@ -1,0 +1,1 @@
+This is a recreation of the famous classic game Minesweeper. Creating using a python libary, Graphics.py by John Zelle coupled with python procedural programming for intro programming class at Sonoma State university. Please feel free to leave constructive feedback.
